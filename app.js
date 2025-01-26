@@ -96,5 +96,8 @@ const practice = {
         }
     }
 }
+<<<<<<< HEAD
 console.log('my portfolio')
 alert('welcome');
+=======
+>>>>>>> origin/master
