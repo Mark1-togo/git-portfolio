@@ -728,6 +728,8 @@ span{
     color: white;
     flex-wrap: wrap;
     margin: 0 70px;
+    height: 28vh;
+    border-radius: 12px;
 }
 .newsletter-part1{
     flex: 1;
@@ -741,7 +743,11 @@ span{
     justify-content: flex-end;
 
 }
-
+.container6 h2{
+    color: #d64b0a;
+    font-weight: 900;
+    font-family: 'Poppins' sans-serif;
+}
 .container6 input[type="email"] {
     padding: 10px;
     border: none;
